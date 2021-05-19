@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Eyoba21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Eyob
+- 👀 I’m interested in learnig
+- 🌱 I’m currently learning computer science
+- 💞️
+- 📫 How to reach me eyuti@boss@gmail.com
+
 
 <!---
 Eyoba21/Eyoba21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
